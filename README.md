@@ -1,2 +1,2 @@
 # PartialRecall
-Codes for Parametric and NPMLE, Partial recall data. Refer to READme.txt for details.
+Codes for Parametric MLE and NPMLE, Partial recall data. Refer to READme.txt for details.
